@@ -14,19 +14,11 @@ Welcome to my interactive GitHub profile! I'm a Software Development Engineer pa
 **Tech Stack:** Python, Jupyter Notebook  
 **Overview:**  
 Transform text prompts into dynamic video slideshow stories! By combining NLP with multimedia, this project creates visual narratives from simple textual inputs.  
-👉 [Watch Demo](https://github.com/RushilVerma/Text2Game)
+👉 [Visit](https://github.com/RushilVerma/Text2Game)
 
 ---
 
-### 2. [DynamicTheme](https://github.com/RushilVerma/DynamicTheme) 🌐
-**Tech Stack:** JavaScript, CSS, HTML  
-**Overview:**  
-An AI-powered tool for auto-generating creative content, tailored by culture, season, and occasion. It’s perfect for creating festive designs and marketing material.  
-✨ [Generate Your Theme](https://github.com/RushilVerma/DynamicTheme)
-
----
-
-### 3. [Gesture-Speech](https://github.com/RushilVerma/Gesture-Speech) 🖐️🗣️
+### 2. [Gesture-Speech](https://github.com/RushilVerma/Gesture-Speech) 🖐️🗣️
 **Tech Stack:** Python  
 **Overview:**  
 A translator for Indian Sign Language (ISL) that enables real-time communication between hearing-impaired users and others. Converts hand gestures to speech and vice versa.  
@@ -34,7 +26,7 @@ A translator for Indian Sign Language (ISL) that enables real-time communication
 
 ---
 
-### 4. [RemoteScreenX](https://github.com/RushilVerma/RemoteScreenX) 📺
+### 3. [RemoteScreenX](https://github.com/RushilVerma/RemoteScreenX) 📺
 **Tech Stack:** Node.js, WebSocket, RobotJS  
 **Overview:**  
 Control and share your screen remotely through WebSockets. It's designed for high-performance remote access and teamwork!  
@@ -42,7 +34,7 @@ Control and share your screen remotely through WebSockets. It's designed for hig
 
 ---
 
-### 5. [GPSBeacon](https://github.com/RushilVerma/GPSBeacon) 📍
+### 4. [GPSBeacon](https://github.com/RushilVerma/GPSBeacon) 📍
 **Tech Stack:** Kotlin  
 **Overview:**  
 Track and save locations easily with this lightweight Kotlin application. Whether you’re hiking or exploring, never lose track of your favorite spots.  
@@ -50,7 +42,7 @@ Track and save locations easily with this lightweight Kotlin application. Whethe
 
 ---
 
-### 6. [SpeechWIFIconnector](https://github.com/RushilVerma/SpeechWIFIconnector) 🎤📶
+### 5. [SpeechWIFIconnector](https://github.com/RushilVerma/SpeechWIFIconnector) 🎤📶
 **Tech Stack:** Java, Android Studio  
 **Overview:**  
 Use voice commands to control WiFi settings with ease! Whether it's turning on WiFi, scanning networks, or connecting, this app simplifies wireless management.  
